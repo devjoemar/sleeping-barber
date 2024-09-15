@@ -1,4 +1,8 @@
 
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/92663b07-8b47-46b3-bc15-c80dcc0804a2)
+
+Frontend: https://github.com/devjoemar/sleeping-barber-ui
+
 ### **Sleeping Barber Problem - Spring Boot, Java 21 Virtual Threads, and WebSockets**
 
 Welcome to the **Sleeping Barber Problem** demonstration, a classic concurrency problem re-imagined using the latest technologies: **Spring Boot**, **Java 21 Virtual Threads**, and **WebSockets**. This project illustrates how to solve the problem using modern concurrency primitives and real-time communication.
