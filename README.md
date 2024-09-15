@@ -1,5 +1,5 @@
 
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/92663b07-8b47-46b3-bc15-c80dcc0804a2)
+![sleeping-barber-gif](https://github.com/user-attachments/assets/46eb1269-925b-4205-8bdd-ffb1d32c3a06)
 
 Frontend: https://github.com/devjoemar/sleeping-barber-ui
 
